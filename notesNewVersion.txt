@@ -1,0 +1,2 @@
+- First version
+- Auto follow and like based on your config
